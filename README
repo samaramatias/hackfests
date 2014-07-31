@@ -1,1 +1,1 @@
-Esse repositório contém os arquivos do Lab 2 - Sistemas da Informação 1 - Aluno Gleyser B. Guimarães - Computação UFCG
+Esse repositório contém os arquivos do Lab 3 - Sistemas da Informação 1 - Aluno Samara Milena Araújo Matias - Computação UFCG
